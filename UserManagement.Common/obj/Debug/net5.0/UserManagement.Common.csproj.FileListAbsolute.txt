@@ -1,0 +1,15 @@
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.csproj.AssemblyReference.cache
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.AssemblyInfoInputs.cache
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.AssemblyInfo.cs
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.csproj.CoreCompileInputs.cache
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.deps.json
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.dll
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.pdb
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.dll
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\refint\UserManagement.Common.dll
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.pdb
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\ref\UserManagement.Common.dll
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.runtimeconfig.json
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.runtimeconfig.dev.json
+C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.genruntimeconfig.cache

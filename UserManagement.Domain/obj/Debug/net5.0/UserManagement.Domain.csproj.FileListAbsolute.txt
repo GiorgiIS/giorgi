@@ -13,3 +13,18 @@ C:\Work\my projects\monolith\sample\UserApi\UserManagement.Domain\obj\Debug\net5
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Domain\obj\Debug\net5.0\refint\UserManagement.Domain.dll
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.pdb
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Domain\obj\Debug\net5.0\ref\UserManagement.Domain.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\bin\Debug\net5.0\UserManagement.Domain.deps.json
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\bin\Debug\net5.0\UserManagement.Domain.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\bin\Debug\net5.0\UserManagement.Domain.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\bin\Debug\net5.0\UserManagement.Common.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\bin\Debug\net5.0\UserManagement.Common.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.AssemblyInfo.cs
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.csproj.CopyComplete
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\refint\UserManagement.Domain.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\UserManagement.Domain.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Domain\obj\Debug\net5.0\ref\UserManagement.Domain.dll

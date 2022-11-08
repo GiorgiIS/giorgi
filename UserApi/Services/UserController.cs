@@ -25,8 +25,10 @@ namespace UserManagement.Api.Services
         [SwaggerOperation("create  user")]
         [SwaggerResponse(201, "Operation was successful, returns identifier of crated entity", typeof(SwaggerResultPost<int>))]
         [SwaggerResponse(400, "Operation was interrupted because of bad request", typeof(SwaggerResultException))]
+        [SwaggerResponse(401, "Operation couldn't be done, user is not authorized", typeof(SwaggerResultUnauthorized))]
+        [SwaggerResponse(403, "Operation couldn't be done, user is does not have permission", typeof(SwaggerResulForbidden))]
         [SwaggerResponse(404, "Couldn't find related data", typeof(SwaggerResultPost))]
-        [SwaggerResponse(415, "Validation error", typeof(SwaggerResultValidationFailure))]
+        [SwaggerResponse(422, "Validation error", typeof(SwaggerResultValidationFailure))]
         [SwaggerResponse(500, "Interval server error", typeof(SwaggerResultException))]
         public async Task<Result<int>> Post([FromBody] CreateUser command)
         {
@@ -37,8 +39,10 @@ namespace UserManagement.Api.Services
         [SwaggerOperation("delete user")]
         [SwaggerResponse(200, "Operation was successful", typeof(SwaggerResultPost))]
         [SwaggerResponse(400, "Operation was interrupted because of bad request", typeof(SwaggerResultException))]
+        [SwaggerResponse(401, "Operation couldn't be done, user is not authorized", typeof(SwaggerResultUnauthorized))]
+        [SwaggerResponse(403, "Operation couldn't be done, user is does not have permission", typeof(SwaggerResulForbidden))]
         [SwaggerResponse(404, "Couldn't find related data", typeof(SwaggerResultPost))]
-        [SwaggerResponse(415, "Validation error", typeof(SwaggerResultValidationFailure))]
+        [SwaggerResponse(422, "Validation error", typeof(SwaggerResultValidationFailure))]
         [SwaggerResponse(500, "Interval server error", typeof(SwaggerResultException))]
         public async Task<Result<Unit>> Post([FromRoute] DeleteUser command)
         {
@@ -49,6 +53,9 @@ namespace UserManagement.Api.Services
         [HttpGet("{Id}")]
         [SwaggerOperation("retrieve user from database")]
         [SwaggerResponse(200, "user with provided identifier", typeof(SwaggerResultGet<GetUserDto>))]
+        [SwaggerResponse(400, "Operation was interrupted because of bad request", typeof(SwaggerResultException))]
+        [SwaggerResponse(401, "Operation couldn't be done, user is not authorized", typeof(SwaggerResultUnauthorized))]
+        [SwaggerResponse(403, "Operation couldn't be done, user is does not have permission", typeof(SwaggerResulForbidden))]
         [SwaggerResponse(404, "Couldn't find related data", typeof(SwaggerResultGet<SwaggerEmptyJsonSample>))]
         [SwaggerResponse(500, "Interval server error", typeof(SwaggerResultException))]
         public async Task<Result<GetUserDto>> Get([FromRoute] GetUserQuery query)
@@ -60,6 +67,9 @@ namespace UserManagement.Api.Services
         [HttpGet]
         [SwaggerOperation("retrieve users from database")]
         [SwaggerResponse(200, "The list of active users", typeof(SwaggerResultGet<PagedResult<GetUserDto>>))]
+        [SwaggerResponse(400, "Operation was interrupted because of bad request", typeof(SwaggerResultException))]
+        [SwaggerResponse(401, "Operation couldn't be done, user is not authorized", typeof(SwaggerResultUnauthorized))]
+        [SwaggerResponse(403, "Operation couldn't be done, user is does not have permission", typeof(SwaggerResulForbidden))]
         [SwaggerResponse(404, "Couldn't find related data", typeof(SwaggerResultGet<SwaggerEmptyJsonSample>))]
         [SwaggerResponse(500, "Interval server error", typeof(SwaggerResultException))]
         public async Task<Result<PagedResult<GetUserDto>>> Get([FromQuery] GetUsersQuery query)

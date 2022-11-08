@@ -17,3 +17,22 @@ C:\Work\my projects\monolith\sample\UserApi\UserManagement.Application\obj\Debug
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Application\obj\Debug\net5.0\refint\UserManagement.Application.dll
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.pdb
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Application\obj\Debug\net5.0\ref\UserManagement.Application.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Application.deps.json
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Application.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Application.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Common.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Domain.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Infrastructure.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Infrastructure.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Common.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\bin\Debug\net5.0\UserManagement.Domain.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.AssemblyInfo.cs
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.csproj.CopyComplete
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\refint\UserManagement.Application.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\UserManagement.Application.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Application\obj\Debug\net5.0\ref\UserManagement.Application.dll

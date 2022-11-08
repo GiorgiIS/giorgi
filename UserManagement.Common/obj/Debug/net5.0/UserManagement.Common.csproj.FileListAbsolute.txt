@@ -13,3 +13,18 @@ C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.runtimeconfig.json
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.runtimeconfig.dev.json
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.genruntimeconfig.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.deps.json
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.runtimeconfig.json
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.runtimeconfig.dev.json
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\bin\Debug\net5.0\UserManagement.Common.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.AssemblyInfo.cs
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\refint\UserManagement.Common.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\UserManagement.Common.genruntimeconfig.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Common\obj\Debug\net5.0\ref\UserManagement.Common.dll

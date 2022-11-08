@@ -15,3 +15,20 @@ C:\Work\my projects\monolith\sample\UserApi\UserManagement.Infrastructure\obj\De
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Infrastructure\obj\Debug\net5.0\refint\UserManagement.Infrastructure.dll
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.pdb
 C:\Work\my projects\monolith\sample\UserApi\UserManagement.Infrastructure\obj\Debug\net5.0\ref\UserManagement.Infrastructure.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\bin\Debug\net5.0\UserManagement.Infrastructure.deps.json
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\bin\Debug\net5.0\UserManagement.Infrastructure.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\bin\Debug\net5.0\UserManagement.Infrastructure.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\bin\Debug\net5.0\UserManagement.Common.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\bin\Debug\net5.0\UserManagement.Domain.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\bin\Debug\net5.0\UserManagement.Domain.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\bin\Debug\net5.0\UserManagement.Common.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.csproj.CopyComplete
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\refint\UserManagement.Infrastructure.dll
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\UserManagement.Infrastructure.pdb
+C:\Users\giorg\source\repos\giorgi\UserManagement.Infrastructure\obj\Debug\net5.0\ref\UserManagement.Infrastructure.dll

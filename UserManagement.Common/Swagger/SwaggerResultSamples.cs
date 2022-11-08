@@ -62,6 +62,28 @@ namespace UserManagement.Common.Swagger
         public ResultType Type { get; }
     }
 
+    public class SwaggerResultUnauthorized
+    {
+        public bool IsSuccess => Type is ResultType.Ok or ResultType.Accepted or ResultType.Created;
+        public int StatusCode => (int)Type;
+        public string Message { get; set; }
+
+        [JsonIgnore]
+        [JsonConverter(typeof(JsonStringEnumConverter))]
+        public ResultType Type { get; }
+    }
+
+    public class SwaggerResulForbidden
+    {
+        public bool IsSuccess => Type is ResultType.Ok or ResultType.Accepted or ResultType.Created;
+        public int StatusCode => (int)Type;
+        public string Message { get; set; }
+
+        [JsonIgnore]
+        [JsonConverter(typeof(JsonStringEnumConverter))]
+        public ResultType Type { get; }
+    }
+
     public class SwaggerEmptyJsonSample
     { }
 }

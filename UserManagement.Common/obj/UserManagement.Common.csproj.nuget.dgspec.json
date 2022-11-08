@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\my projects\\monolith\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj": {}
+    "C:\\Users\\giorg\\source\\repos\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj": {}
   },
   "projects": {
-    "C:\\Work\\my projects\\monolith\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj": {
+    "C:\\Users\\giorg\\source\\repos\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\my projects\\monolith\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj",
+        "projectUniqueName": "C:\\Users\\giorg\\source\\repos\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj",
         "projectName": "UserManagement.Common",
-        "projectPath": "C:\\Work\\my projects\\monolith\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj",
-        "packagesPath": "C:\\Users\\jiqia\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\my projects\\monolith\\giorgi\\UserManagement.Common\\obj\\",
+        "projectPath": "C:\\Users\\giorg\\source\\repos\\giorgi\\UserManagement.Common\\UserManagement.Common.csproj",
+        "packagesPath": "C:\\Users\\giorg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giorg\\Source\\Repos\\giorgi\\UserManagement.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jiqia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giorg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,7 +149,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
